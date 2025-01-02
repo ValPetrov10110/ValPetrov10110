@@ -2,7 +2,7 @@
 
 **`Digital Apprentice (Software Engineer)`**
 
-If you're here, welcome! I'm just an average guy who really enjoy not just
+If you're here, welcome! I'm just an average guy who really enjoys not just
 Computer Science, but programming as well! Every project I do is meticulously thought 
 out, all the way from the conceptualization and designing all the way to solving real-life 
 problems with code. I record my learning process on my YouTube channel "[vp_SWE](https://www.youtube.com/@vp_SWE)" to try and not only be
