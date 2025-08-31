@@ -21,9 +21,9 @@ able to reflect on previous accomplishments, but to try and motivate others to p
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValPetrov10110&show_icons=true&theme=codeSTACKr)](https://github.com/ValPetrov10110/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValPetrov10110&show_icons=true&theme=slateorange)](https://github.com/ValPetrov10110/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValPetrov10110&layout=compact&theme=codeSTACKr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValPetrov10110&layout=compact&theme=slateorange)
 
 ##
 
