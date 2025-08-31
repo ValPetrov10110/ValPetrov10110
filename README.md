@@ -11,8 +11,7 @@ able to reflect on previous accomplishments, but to try and motivate others to p
 ---
 ### 🧰 Languages and Tools
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="Qt" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <br />
 
@@ -22,12 +21,9 @@ able to reflect on previous accomplishments, but to try and motivate others to p
 
 
 
-<a href="https://github.com/ValPetrov10110/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ValPetrov10110&show_icons=true&theme=react" />
-</a>
-<a href="https://github.com/ValPetrov10110/convoychat">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValPetrov10110&layout=compact&theme=react" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValPetrov10110&show_icons=true&theme=codeSTACKr)](https://github.com/ValPetrov10110/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValPetrov10110&layout=compact&theme=codeSTACKr)
 
 ##
 
